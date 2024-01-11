@@ -1,0 +1,11 @@
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BLL\bin\Debug\net8.0\BLL.deps.json
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BLL\bin\Debug\net8.0\BLL.dll
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BLL\bin\Debug\net8.0\BLL.pdb
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BLL\obj\Debug\net8.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BLL\obj\Debug\net8.0\BLL.AssemblyInfoInputs.cache
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BLL\obj\Debug\net8.0\BLL.AssemblyInfo.cs
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BLL\obj\Debug\net8.0\BLL.csproj.CoreCompileInputs.cache
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BLL\obj\Debug\net8.0\BLL.dll
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BLL\obj\Debug\net8.0\refint\BLL.dll
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BLL\obj\Debug\net8.0\BLL.pdb
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BLL\obj\Debug\net8.0\ref\BLL.dll

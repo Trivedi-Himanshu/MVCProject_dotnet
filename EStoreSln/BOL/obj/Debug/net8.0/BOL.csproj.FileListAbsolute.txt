@@ -1,0 +1,11 @@
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BOL\bin\Debug\net8.0\BOL.deps.json
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BOL\bin\Debug\net8.0\BOL.dll
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BOL\bin\Debug\net8.0\BOL.pdb
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BOL\obj\Debug\net8.0\BOL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BOL\obj\Debug\net8.0\BOL.AssemblyInfoInputs.cache
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BOL\obj\Debug\net8.0\BOL.AssemblyInfo.cs
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BOL\obj\Debug\net8.0\BOL.csproj.CoreCompileInputs.cache
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BOL\obj\Debug\net8.0\BOL.dll
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BOL\obj\Debug\net8.0\refint\BOL.dll
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BOL\obj\Debug\net8.0\BOL.pdb
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\BOL\obj\Debug\net8.0\ref\BOL.dll

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Himanshu_Pratik\\dotnet\\Day 7\\CollectionSolution\\EStoreWebApp\\EStoreWebApp.csproj": {}
+    "E:\\Cdac\\DotNet\\mydemogit\\MVCProject_dotnet\\EStoreWebApp\\EStoreWebApp.csproj": {}
   },
   "projects": {
-    "E:\\Himanshu_Pratik\\dotnet\\Day 7\\CollectionSolution\\EStoreWebApp\\EStoreWebApp.csproj": {
+    "E:\\Cdac\\DotNet\\mydemogit\\MVCProject_dotnet\\EStoreWebApp\\EStoreWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Himanshu_Pratik\\dotnet\\Day 7\\CollectionSolution\\EStoreWebApp\\EStoreWebApp.csproj",
+        "projectUniqueName": "E:\\Cdac\\DotNet\\mydemogit\\MVCProject_dotnet\\EStoreWebApp\\EStoreWebApp.csproj",
         "projectName": "EStoreWebApp",
-        "projectPath": "E:\\Himanshu_Pratik\\dotnet\\Day 7\\CollectionSolution\\EStoreWebApp\\EStoreWebApp.csproj",
-        "packagesPath": "C:\\Users\\dac\\.nuget\\packages\\",
-        "outputPath": "E:\\Himanshu_Pratik\\dotnet\\Day 7\\CollectionSolution\\EStoreWebApp\\obj\\",
+        "projectPath": "E:\\Cdac\\DotNet\\mydemogit\\MVCProject_dotnet\\EStoreWebApp\\EStoreWebApp.csproj",
+        "packagesPath": "C:\\Users\\Shree\\.nuget\\packages\\",
+        "outputPath": "E:\\Cdac\\DotNet\\mydemogit\\MVCProject_dotnet\\EStoreWebApp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\dac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Shree\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

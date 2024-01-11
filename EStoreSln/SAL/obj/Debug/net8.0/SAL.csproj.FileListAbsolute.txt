@@ -1,0 +1,17 @@
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\SAL\bin\Debug\net8.0\SAL.deps.json
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\SAL\bin\Debug\net8.0\SAL.dll
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\SAL\bin\Debug\net8.0\SAL.pdb
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\SAL\obj\Debug\net8.0\SAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\SAL\obj\Debug\net8.0\SAL.AssemblyInfoInputs.cache
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\SAL\obj\Debug\net8.0\SAL.AssemblyInfo.cs
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\SAL\obj\Debug\net8.0\SAL.csproj.CoreCompileInputs.cache
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\SAL\obj\Debug\net8.0\SAL.dll
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\SAL\obj\Debug\net8.0\refint\SAL.dll
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\SAL\obj\Debug\net8.0\SAL.pdb
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\SAL\obj\Debug\net8.0\ref\SAL.dll
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\SAL\bin\Debug\net8.0\BOL.dll
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\SAL\bin\Debug\net8.0\DAL.dll
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\SAL\bin\Debug\net8.0\BOL.pdb
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\SAL\bin\Debug\net8.0\DAL.pdb
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\SAL\obj\Debug\net8.0\SAL.csproj.AssemblyReference.cache
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\SAL\obj\Debug\net8.0\SAL.csproj.CopyComplete

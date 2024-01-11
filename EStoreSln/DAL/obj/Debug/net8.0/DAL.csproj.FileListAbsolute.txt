@@ -1,0 +1,15 @@
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\DAL\bin\Debug\net8.0\DAL.deps.json
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\DAL\bin\Debug\net8.0\DAL.dll
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\DAL\bin\Debug\net8.0\DAL.pdb
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\DAL\obj\Debug\net8.0\DAL.dll
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\DAL\obj\Debug\net8.0\refint\DAL.dll
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\DAL\obj\Debug\net8.0\DAL.pdb
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\DAL\obj\Debug\net8.0\ref\DAL.dll
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\DAL\bin\Debug\net8.0\BOL.dll
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\DAL\bin\Debug\net8.0\BOL.pdb
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+E:\Himanshu_Pratik\dotnet\Day 11 Pratice\EStoreSln\DAL\obj\Debug\net8.0\DAL.csproj.CopyComplete
